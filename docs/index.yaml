@@ -1,3 +1,12 @@
 apiVersion: v1
-entries: {}
-generated: 2018-03-20T12:00:57.7908974+09:00
+entries:
+  jihon-web:
+  - apiVersion: v1
+    created: 2018-03-20T12:20:37.0771371+09:00
+    description: A Helm chart for Kubernetes
+    digest: a60bb5927818411b8e83c42c7c8eef82e02fdd620e1a96d0b8103abf9d05c437
+    name: jihon-web
+    urls:
+    - https://JihonLab04.github.io/mycharts/jihon-web-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-03-20T12:20:37.0721344+09:00
